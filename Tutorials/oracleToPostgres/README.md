@@ -45,5 +45,5 @@ The **Azure Database Migration Service** is a tool that serves as a way to :
 
 ## Phase 2: Oracle to PostgreSQL Migration using Azure DMS
   *Duration: 30 Minutes*
-* [World Wide Importer Oracle Database Migration](Tutorials/DMStutorial.md)
-* [World Wide Importer Oracle Database Migration (Video)](Videos/azuredmsproject.mp4)
+* [World Wide Importer Oracle Database Migration](https://github.com/Click2Cloud/azure-oracle-migration/blob/master/Tutorials/DMStutorial.md)
+* [World Wide Importer Oracle Database Migration (Video)](https://github.com/Click2Cloud/azure-oracle-migration/blob/master/Videos/azuredmsproject.mp4)
