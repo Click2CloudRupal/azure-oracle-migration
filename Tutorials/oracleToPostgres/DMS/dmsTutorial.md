@@ -81,7 +81,7 @@
 * If ‘readonly, archive’ error: right click the driver zip file->uncheck ‘read-only’ 
 
 <kbd>
-  <img src="https://github.com/Click2Cloud/azure-oracle-migration/new/master/Images/8.png">
+  <img src="/Images/8.png">
 </kbd></p>
 
 <br/><br/><br/>
@@ -91,7 +91,7 @@
 **8. Connect to the Azure PostgreSQL Database.**
 
 <kbd>
-  <img src="https://github.com/Click2Cloud/azure-oracle-migration/new/master/Images/9.png">
+  <img src="/Images/9.png">
 </kbd></p>
 
 <br/><br/><br/>
@@ -103,7 +103,7 @@
 * If nothing shows up this means you did not properly set up the names, datatypes, etc. For the Oracle and PostgreSQL tables. 
 
 <kbd>
-  <img src="https://github.com/Click2Cloud/azure-oracle-migration/new/master/Images/10.png">
+  <img src="/Images/10.png">
 </kbd></p>
 
 <br/><br/><br/>
@@ -113,7 +113,7 @@
 **10. Check the summary if all settings/configurations are correct then click "Run Migration".**
 
 <kbd>
-  <img src="https://github.com/Click2Cloud/azure-oracle-migration/new/master/Images/11.png">
+  <img src="/Images/11.png">
 </kbd></p>
 
 <br/><br/><br/>
@@ -123,5 +123,5 @@
 **11. Then check the summary to see if all settings are correct and then run the activity. Once this is done you can check on the current activities in the migration.**
 
 <kbd>
-  <img src="https://github.com/Click2Cloud/azure-oracle-migration/new/master/Images/12.png">
+  <img src="/Images/12.png">
 </kbd></p>
