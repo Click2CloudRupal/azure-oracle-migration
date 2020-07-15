@@ -14,7 +14,7 @@
 3.  In your Oracle Database, change the **UNITS** to be **CHAR** and **not BYTE** for character datatypes in your desired table for DMS. (When DMS is active and the character outputs to PostgreSQL are incorrect, change this setting).
 
 <kbd>
-  <img src="https://github.com/Click2Cloud/azure-oracle-migration/new/master/Images/16.png">
+  <img src="https://github.com/Click2Cloud/azure-oracle-migration/blob/master/Images/16.png">
 </kbd></p>
 
 
