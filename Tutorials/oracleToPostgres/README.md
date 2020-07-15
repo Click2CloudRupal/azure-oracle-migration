@@ -38,12 +38,9 @@ The **Azure Database Migration Service** is a tool that serves as a way to :
 * **Duration of Demo:** Approximately *30 minutes*
 
 ## Prerequisites
-* [Prerequisites tutorial](Prerequisites/PREREQUISITES.md)
+* [Prerequisites tutorial](https://github.com/Click2Cloud/azure-oracle-migration/blob/master/Prerequisites/PREREQUISITES.md)
 
-## Phase 1: 
-
-
-## Phase 2: Oracle to PostgreSQL Migration using Azure DMS
+##Oracle to PostgreSQL Migration using Azure DMS
   *Duration: 30 Minutes*
 * [World Wide Importer Oracle Database Migration](https://github.com/Click2Cloud/azure-oracle-migration/blob/master/Tutorials/DMStutorial.md)
 * [World Wide Importer Oracle Database Migration (Video)](https://github.com/Click2Cloud/azure-oracle-migration/blob/master/Videos/azuredmsproject.mp4)
