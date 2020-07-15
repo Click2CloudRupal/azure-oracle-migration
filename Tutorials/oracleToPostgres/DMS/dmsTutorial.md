@@ -81,7 +81,7 @@
 * If ‘readonly, archive’ error: right click the driver zip file->uncheck ‘read-only’ 
 
 <kbd>
-  <img src="/Images/8.png">
+  <img src="https://github.com/Click2Cloud/azure-oracle-migration/new/master/Images/8.png">
 </kbd></p>
 
 <br/><br/><br/>
