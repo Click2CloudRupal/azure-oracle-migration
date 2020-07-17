@@ -50,7 +50,7 @@ The **Azure Database Migration Service** is a tool that serves as a way to :
 * [World Wide Importer Oracle Database Migration](Tutorials/DMStutorial.md)
 * [World Wide Importer Oracle Database Migration (Video)](Videos/azuredmsproject.mp4)
 
-## Phase 3: Deploy Azure Data Controller and Postgres Hyperscale on Kubernetes Clusters.
-* [Deploy Azure Data Controller on Kubernetes](Tutorials/azure-arc-postgres-hyperscale/README.md)
-* [Deploy PostgreSQL Hyperscale](Tutorials/azure-arc-postgres-hyperscale/docs/003-create-pghsaa-instance.md)
+## Phase 3: Azure Arc Enabled Services
 
+* [Azure Arc enabled Kubernetes](Tutorials/azure-arc/azure_arc_k8s_jumpstart/README.md)
+* [Azure Arc enabled Data Services](Tutorials/azure_arc_data_jumpstart/README.md)
