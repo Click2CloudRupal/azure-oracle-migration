@@ -52,5 +52,4 @@ The **Azure Database Migration Service** is a tool that serves as a way to :
 
 ## Phase 3: Azure Arc Enabled Services
 
-* [Azure Arc enabled Kubernetes](Tutorials/azure-arc/azure_arc_k8s_jumpstart/README.md)
 * [Azure Arc enabled Data Services](Tutorials/azure_arc_data_jumpstart/README.md)

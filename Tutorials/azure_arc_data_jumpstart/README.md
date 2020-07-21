@@ -10,8 +10,4 @@ If you do not yet have a Kubernetes cluster, the following examples walk through
 
 * [Azure Arc Data Controller Vanilla Deployment on AKS using Azure ARM template](docs/aks_dc_vanilla_arm_template.md)
 
-* [Azure Arc Data Controller Vanilla Deployment on Ubuntu Kubeadm VM using Azure ARM template](docs/kubeadm_dc_vanilla_arm_template.md)
-
-* [Azure SQL Managed Instance Deployment on AKS using Azure ARM template](docs/aks_mssql_mi_arm_template.md)
-
 * [Azure PostgreSQL Hyperscale (Citus) Deployment on AKS](../azure_arc_postgres_hyperscale/README.md)
